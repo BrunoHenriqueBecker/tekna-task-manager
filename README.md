@@ -32,7 +32,7 @@ env
 Copiar
 Editar
 DATABASE_URL=postgresql://postgres:postgres@db:5432/tekna?schema=public
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=123
 3️⃣ Run the project
 bash
 Copiar
